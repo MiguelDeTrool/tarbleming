@@ -15,7 +15,7 @@ Id	Designator	Package	Quantity	Designation
 14	J12,J11,J10,J9,J8,J7,J6,J5,J4,J2,J1	ModdedThonkiconn	11	ThonkiConn
 15	U6	Arduino_Nano	1	Arduino_Nano_v3.x
 16	U2	TO-220-3_Horizontal_TabDown	1	L7805
-17	U1	TO-92_Inline	1	LM4040LP-5
+17	U1	TO-92_Inline	1	LM4040LP-5 (maybe could be replaced by a 5v zener diode in a pinch?)
 18	RV5,RV4,RV3,RV2,RV1	ModdedPotentiometer	5	10K
 19	R25,R24	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	2	3300
 20	R14,R15,R17	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	3	330
